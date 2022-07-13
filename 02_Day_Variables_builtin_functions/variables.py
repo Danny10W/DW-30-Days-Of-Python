@@ -38,3 +38,13 @@ print('Last name: ', last_name)
 print('Country: ', country)
 print('Age: ', age)
 print('Married: ', is_married)
+print(type(is_married))
+
+first_name = input('Enter your first name: ')
+last_name = input('Enter your last name: ')
+age = int(input('Enter your age: '))
+
+#print the values stored in the variables
+print('First name:', first_name)
+print('Last name: ', last_name)
+print('Age: ', age)
